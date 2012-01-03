@@ -11,8 +11,12 @@
     </style>
   </head>
   <body>
-    <h1 class="homepage"><a href="/">blog.lizconlan.com</a></h1>
-    <h2>{{ page.title }}</h2>
-    {{ content }}
+    <header>
+      <h1 class="homepage"><a href="/">blog.lizconlan.com</a></h1>
+      <h2>{{ page.title }}</h2>
+    </header>
+    <article>
+      {{ content }}
+    </article>
   </body>
 </html>
