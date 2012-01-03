@@ -9,7 +9,7 @@ keywords: kindle, iOS, Amazon
 ---
 
 <div markdown="1" class="intro">
-  In the run-up to Christmas, Amazon appear to have made some pretty serious changes to the Kindle backend. Some immediately and obviously change things for the better, some are just different and others make things more... complicated for those of us who thought we understood how it worked previously.
+  In the run-up to Christmas, Amazon appear to have made some pretty serious changes to the Kindle backend. Some of these immediately and obviously change things for the better, some are just different and others make things more... complicated for those of us who thought we understood how it worked previously.
 
   *(Disclaimer: Most of the app features discussed here currently appear to be iOS only, but presumably will be rolled out to Android in due course. I have no insider information on this, just a borrowed Android phone, internet access and what seems like a reasonable guess.)*
 </div>
