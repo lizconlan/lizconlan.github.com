@@ -1,0 +1,5 @@
+pygments: true
+permalink: ./:title.html
+exclude: 
+- Rakefile
+- CNAME
