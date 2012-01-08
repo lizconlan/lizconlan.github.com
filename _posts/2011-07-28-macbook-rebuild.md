@@ -20,7 +20,7 @@ More and more apps - and by the looks of things the [latest version of Mac OS](h
 
 ### The proposed solution
 
-I have taken the rash decision to "upgrade" my MacBook with parts sourced from eBay on the grounds that if I kill it I can claim on the insurance and buy a new one after all. (Thankfully this wasn't necessary.)
+I have taken the rash decision to "upgrade" my 2Ghz MacBook with parts sourced from eBay on the grounds that if I kill it I can claim on the insurance and buy a new one after all. (Thankfully this wasn't necessary.)
 
 ### Ingredients
 
@@ -34,7 +34,7 @@ I have taken the rash decision to "upgrade" my MacBook with parts sourced from e
  
 ### The catch
 
-Why such a small chip upgrade? Well given the limitations of the case layout, there are limited options in terms of what can be crowbarred into the laptop equivalent of the engine bay, otherwise I would have put in something even faster and with a better understanding of modern RAM limitations. And it turns out there were 4 different models of fan for the plastic MacBook range, none of them cross-compatible with any of the others, and the replacement motherboard required a different one to the original. Oh and the original MacBook motherboard didn't use an EnergyStar compliant power connector so I needed a new one of those as well. Each of these discoveries saw me returning to eBay to buy more bits, meaning more money spent and more time wasted. And let's not talk about the threaded screw / Dremel incident. Really. Just don't. Please.
+Why such a small chip upgrade (2Ghz to 2.16Ghz)? Well given the limitations of the case layout, there are limited options in terms of what can be crowbarred into the laptop equivalent of the engine bay, otherwise I would have put in something even faster and with a better understanding of modern RAM limitations. And it turns out there were 4 different models of fan for the plastic MacBook range, none of them cross-compatible with any of the others, and the replacement motherboard required a different one to the original. Oh and the original MacBook motherboard didn't use an EnergyStar compliant power connector so I needed a new one of those as well. Each of these discoveries saw me returning to eBay to buy more bits, meaning more money spent and more time wasted. And let's not talk about the threaded screw / Dremel incident. Really. Just don't. Please.
 
 ### The build
 
