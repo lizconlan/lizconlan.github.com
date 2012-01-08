@@ -93,3 +93,7 @@ New board in, old board on eBay. Screw it all back together. Hide the bits that 
 ![Tada](images/macbook-rebuild/fixed.png)
 
 Tada! 64bit Intel Core 2
+
+### Was it worth it?
+
+Yeah, I think so. Cost me probably around &pound;300 in the end, which is more than I'd intended but still a lot cheaper than buying a new computer. (Although admittedly a new computer would've been a lot faster and be capable of having a lot more RAM stuffed into it.) An interesting exercise and a computer that should be good for another 2-3 years, a reasonable investment I'd say.
