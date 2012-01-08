@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MacBook rebuild
+title: Open Mac surgery
 categories: 
 - macbook
 - hardware
