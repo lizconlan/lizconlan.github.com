@@ -20,7 +20,7 @@ More and more apps - and by the looks of things the [latest version of Mac OS](h
 
 ### The proposed solution
 
-I have taken the rash decision to "upgrade" my 2Ghz MacBook with parts sourced from eBay on the grounds that if I kill it I can claim on the insurance and buy a new one after all. (Thankfully this wasn't necessary.)
+I have taken the rash decision to "upgrade" my 2Ghz MacBook with parts sourced from eBay on the grounds that if I kill it I can claim on the insurance and buy a new one after all. (**Spoiler:** Thankfully this wasn't necessary.)
 
 ### Ingredients
 
