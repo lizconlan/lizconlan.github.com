@@ -18,7 +18,7 @@ This is [@robotbrook](http://twitter.com/robotbrook). He's a much smaller and in
 
 ### What does he do?
 
-He cheats mostly, picks up on thing's the real Robert posts to Pinboard and tweets about it, that style of thing.
+He cheats mostly, picks up on things the real Robert posts to Pinboard and tweets about it, that style of thing.
 
 ### But he talks to me!
 
