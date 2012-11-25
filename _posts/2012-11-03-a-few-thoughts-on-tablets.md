@@ -21,7 +21,7 @@ Well, I've had it over a year and, while it's undoubtedly a great gadget, it's s
 
 ### Got your eye on something particular?
 
-Sort of. Despite my misgivings about Android, I initially thought it was a straight fight between the [Nexus 7](http://www.google.com/nexus/7/) and the [Kindle Fire HD](http://www.amazon.co.uk/kindle-fire-HD-tablet/dp/B0083PWAWU). The Kindle Fire SD variant suffers from a lack of buttons (I've gotten used to being able to turn the volume down without fishing around in a menu) and an excess of reflections so it's the HD version or nothing from where I'm sitting (especially if I'm sitting on a train - so many weird reflections to be had). Obviously the iPad Mini's non-conformist 8" - sorry 7.9" - screen was going to make it waaay too bulky and cumbersome to be in with a shout.
+Sort of. Despite my misgivings about Android, I initially thought it was a straight fight between the [Nexus 7](http://www.google.com/nexus/7/) and the [Kindle Fire HD](http://www.amazon.co.uk/kindle-fire-HD-tablet/dp/B0083PWAWU). The Kindle Fire SD variant suffers from a lack of buttons (I've gotten used to being able to turn the volume down without fishing around in a menu) and an excess of reflections so it's the HD version or nothing from where I'm sitting (especially if where I'm sitting is on a train - so many weird reflections to be had). Obviously the iPad Mini's non-conformist 8" - sorry 7.9" - screen was going to make it waaay too bulky and cumbersome to be in with a shout.
 
 ### What about the Surface?
 
