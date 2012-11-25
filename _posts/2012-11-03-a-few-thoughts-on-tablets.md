@@ -13,7 +13,7 @@ keywords: tablets, Kindle Fire HD, Nexus 7, iPad Mini, iOS, Android, Surface
 
 ### But I thought you had an iPad?
 
-I do. I've bought it a funky Logitech keyboard cover and everything. It's great for looking stuff up from the comfort of the sofa on a device that starts up right away without the distracting whirring noises and ["toasted skin syndrome"](http://www.nhs.uk/news/2010/10October/Pages/Skin-damage-linked-with-laptop-use.aspx) [1] associated with a full-on laptop addiction.
+I do. I've bought it a funky Logitech keyboard cover and everything. It's great for looking stuff up from the comfort of the sofa on a device that starts up right away without the distracting whirring noises and ["toasted skin syndrome"](http://www.nhs.uk/news/2010/10October/Pages/Skin-damage-linked-with-laptop-use.aspx) [\*][cite-1] associated with a full-on laptop addiction.
 
 ### So… Why are you looking at buying yet more tech gear you can't afford?
 
@@ -42,4 +42,4 @@ Oh, plus the "premium" tag of the Apple hardware ensures it'll have the usual su
 Yeah, about that. It's the same screen resolution (and processor spec come to that) as my much-loved iPad2 but on a smaller screen so should, if anything, look even sharper. I'm not convinced about the whole Retina thing, it's pretty and all but [there are costs to these sorts of thing](http://www.marco.org/2012/11/12/ipad-mini-cost-of-retina). While I totally get the argument about the iffy value proposition of yesterday's tech at today's prices, I'm not trading in my iPad for performance- or screen-related issues, it's all about the portability for me these days. We'll see if I guessed right this time when I finally manage to find a store that's got one in stock.
 
 
-[1]: I'd take the Daily Mail's claim that laptops cause cancer with a pinch of salt though - as UK readers are probably already aware, [they think **everything** causes cancer](http://www.google.com/search?q=site:dailymail.co.uk+"may+cause+cancer")
+[cite-1]: I'd take the Daily Mail's claim that laptops cause cancer with a pinch of salt though - as UK readers are probably already aware, [they think **everything** causes cancer](http://www.google.com/search?q=site:dailymail.co.uk+"may+cause+cancer")
