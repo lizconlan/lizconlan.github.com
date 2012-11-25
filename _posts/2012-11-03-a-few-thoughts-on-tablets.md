@@ -33,7 +33,7 @@ So after playing with all the things at my friendly local department store - and
 
 ### Yeah, if you see yourself as a content producer and not "just" a consumer, the Nexus unit has a lot going for it... Wait, what?!
 
-Turns out what I really need is something that's "small enough" - handbag sized and not too bulky - and light. Had to be lightweight. And Apple have pulled off a miracle and made sure that the Mini is the lightest of them all. And the thinnest. Very important factors when you're carrying these things around. If you can manage a standard size Moleskine, the iPad Mini should provide [a familiar form factor](http://www.flickr.com/photos/shaderlab/8214807029/).
+Turns out what I really need is something that's "small enough" - handbag sized and not too bulky - and light. Had to be lightweight. And Apple have pulled off an engineering miracle and made sure that the Mini is the lightest of them all. And the thinnest; very important factors when you're carrying these things around. If you can manage a standard size Moleskine, the iPad Mini should provide [a familiar form factor](http://www.flickr.com/photos/shaderlab/8214807029/).
 
 Oh, plus the "premium" tag of the Apple hardware ensures it'll have the usual suspects falling over themselves to produce the widest range of accessories (read: I really need a keyboard - see also [Joey Hess: "my thoughts are being forced out through a straw"](http://joey.hess.usesthis.com)).
 
