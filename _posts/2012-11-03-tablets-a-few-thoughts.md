@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tablets: A Few Thoughts
+title: Tablets\: A Few Thoughts
 categories: 
 - hardware
 - tech
