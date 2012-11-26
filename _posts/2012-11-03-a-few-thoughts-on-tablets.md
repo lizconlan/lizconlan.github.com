@@ -13,7 +13,7 @@ keywords: tablets, Kindle Fire HD, Nexus 7, iPad Mini, iOS, Android, Surface
 
 ### But I thought you had an iPad?
 
-I do. I've bought it a funky Logitech keyboard cover and everything. It's great for looking stuff up from the comfort of the sofa on a device that starts up right away without the distracting whirring noises and ["toasted skin syndrome"](http://www.nhs.uk/news/2010/10October/Pages/Skin-damage-linked-with-laptop-use.aspx)<sup id="cite_ref-1"><a href="#cite-1">[1]</a></sup> associated with a full-on laptop addiction.
+I do. I've bought it a funky Logitech keyboard cover and everything. It's great for looking stuff up from the comfort of the sofa on a device that starts up right away without the distracting whirring noises and ["toasted skin syndrome"](http://www.nhs.uk/news/2010/10October/Pages/Skin-damage-linked-with-laptop-use.aspx)<sup id="cite_ref-1"><a href="#cite-1">1</a></sup> associated with a full-on laptop addiction.
 
 ### So… Why are you looking at buying yet more tech gear you can't afford?
 
