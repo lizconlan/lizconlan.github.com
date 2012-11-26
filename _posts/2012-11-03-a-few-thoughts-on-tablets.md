@@ -41,6 +41,6 @@ Oh, plus the "premium" tag of the Apple hardware ensures it'll have the usual su
 
 Yeah, about that. It's the same screen resolution (and processor spec come to that) as my much-loved iPad2 but on a smaller screen so should, if anything, look even sharper. I'm not convinced about the whole Retina thing, it's pretty and all but [there are costs to this sort of thing](http://www.marco.org/2012/11/12/ipad-mini-cost-of-retina). While I totally get the argument about the iffy value proposition of yesterday's tech at today's prices, I'm not trading in my iPad for performance- or screen-related issues, it's all about the portability for me these days. We'll see if I guessed right this time when I finally manage to find a store that's got one in stock.
 
-<ul id="footnotes">
-	<li id="cite-1"> <i>1.</i>&nbsp; I'd take the Daily Mail's claim that laptops cause cancer with a pinch of salt though - as UK readers are probably already aware, <a href='http://www.google.com/search?q=site:dailymail.co.uk+"may+cause+cancer"'>they think *everything* causes cancer</a> <a href="#cite_ref-1">↩</a></li>
-</ul>
+<ol id="footnotes">
+  <li id="cite-1">I'd take the Daily Mail's claim that laptops cause cancer with a pinch of salt though - as UK readers are probably already aware, <a href='http://www.google.com/search?q=site:dailymail.co.uk+"may+cause+cancer"'>they think *everything* causes cancer</a> <a href="#cite_ref-1" class="return">↩</a></li>
+</ol>
