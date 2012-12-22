@@ -55,7 +55,7 @@ The [new version of my qualification](http://www3.open.ac.uk/study/undergraduate
 
 Think twice before including short courses in your degree programme - they're interesting and fun but a lot of work for a meagre 10 credits. And when it says "don't take 2 short courses at once" they're not kidding - the assignment hand-in dates are identical so getting everything done on time is a killer. Take it from someone who ignored these rules. Twice. Yes, I know but I **really** wanted the intermediate qualification that came with completing the 6 short courses but didn't want it to take forever.
 
-Read the student reviews when choosing which module to study, especially where there is more than one as it gives a good impression of what people thought of the course. Although do bear in mind that courses change over time so older comments might not be fully relevant (especially true for comments on first runnings of a course). [Buying past exam papers from the OUSA](http://www.open.ac.uk/ousa/exam_papers.php) is also a great way of working out what the course is really all about.
+Read the student reviews when choosing which module to study, especially where there is more than one as it gives a good impression of what people thought of the course. Although do bear in mind that courses change over time so older comments might not be fully relevant (especially true for comments on first runnings of a course). [Buying past exam papers from the Students Association](http://www.open.ac.uk/ousa/exam_papers.php) is also a great way of working out what the course is really all about.
 
 ### Was it all worth it?
 
