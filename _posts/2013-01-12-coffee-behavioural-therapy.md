@@ -9,13 +9,12 @@ keywords: burnout, recovery, coffee, espresso
 ---
 
 <div markdown="1" class="intro">
-Always have more than one hobby.<br />
-Getting paid to do your hobby is usually seen as a brilliant thing but life's seldom that straightforward. I allowed work, study and hobby to overlap - which seemed like a great idea at the time - but there's a price to be paid: grow tired of your work and there's not much left to take its place.
+	Always have more than one hobby. Getting paid to do your hobby is usually seen as a brilliant thing but life's seldom that straightforward - grow tired of your work and there's not much left to take its place.
 </div>
 
 ### Burnout
 
-I usually obsess over my work (and wouldn't have it any other way) but towards the end of last year I'd started to lose interest, subtly at first but slowly and surely it progressed to the stage where there was no pleasure to be wrung from the process, not the micro-achievements of problem-solving along the way, the eventual completion of a long-term aim or even, towards the end of the sequence, any kind of thinking or reading about work-related stuff at all. I didn't care, couldn't care and a good day was one where I could get by on autopilot.
+Putting myself through university while holding down a full-time job, I took the conscious decision to let work, study and hobby to overlap - seemed like a great idea at the time - but towards the end of the year I'd started to lose interest. It was subtle at first but slowly and surely it progressed to the stage where there was no pleasure to be wrung from the process, not the micro-achievements of problem-solving along the way, the eventual completion of a long-term aim or even, towards the end of the sequence, any kind of thinking or reading about work-related stuff at all. I didn't care, couldn't care and a good day was one where I could get by on autopilot.
 
 This isn't my first time: previously I'd had times where I'd complete a project I'd been completely wrapped up in and then slumped, overwhelmed by something like regret, and even a sense of loss, that the interesting thing has gone away. The "yay, finished!" buzz evaporated in a microsecond; a bit like reaching the end of a really good book - sure you found out what happened but your brain doesn't get to hang out with its new imaginary friends anymore, boo. But this time was different, it was about more than just a single project and wasn't going to be brushed aside by a new shiny - a new book/project/puzzle to play with. I was stuck.
 
