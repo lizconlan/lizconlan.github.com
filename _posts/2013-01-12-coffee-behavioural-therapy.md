@@ -9,9 +9,9 @@ keywords: burnout, recovery, coffee, espresso
 ---
 
 <div markdown="1" class="intro">
-	Always have more than one hobby.
+Always have more than one hobby.
 
-	Getting paid to do your hobby is usually seen as a brilliant thing but life's seldom that straightforward. I allowed work, study and hobby to overlap - which seemed like a great idea at the time - but there's a price to be paid: grow tired of your work and there's not much left to take its place.
+Getting paid to do your hobby is usually seen as a brilliant thing but life's seldom that straightforward. I allowed work, study and hobby to overlap - which seemed like a great idea at the time - but there's a price to be paid: grow tired of your work and there's not much left to take its place.
 </div>
 
 ### Burnout
