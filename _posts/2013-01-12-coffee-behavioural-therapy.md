@@ -37,4 +37,4 @@ The top pro baristas can rest easy but I have achieved drinkable espresso. And m
 
 ### Aftermath
 
-I'm still working through it. I'm not about to be thrown straight back in the deep end at work (in fact I'm probably banned from the deep end for the time being), as long as I stay in touch I'm being allowed to report from the paddling pool. I have good people around me who are somehow putting up with my short fuse and tendency to snap for no good reason. And when I mess up, I can always make it up to them with a half-decent coffee (or at least a share of the beans).
+I'm still working through it. I'm not about to be thrown straight back in the deep end at work (in fact I'm probably banned from the deep end for the time being), as long as I stay in touch I'm being allowed to report from the paddling pool; my colleagues know me well enough to realise that my low boredom threshold will have me back up and running as soon as I'm able to. I have good people around me who are somehow putting up with my short fuse and tendency to snap for no good reason. And when I mess up, I can always make it up to them with a half-decent coffee (or at least a share of the beans).
