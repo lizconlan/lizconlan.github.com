@@ -6,12 +6,8 @@ categories:
 - twitter
 - tech
 keywords: twitter, coding
-intro: As it seems I'm not the only one missing "@robertbrook":(http://twitter.com/robertbrook) on twitter, this little chap might help bridge the gap. Not quite the same thing, but it looks like he's going to have to do. For now.
+intro: As it seems I'm not the only one missing "@robertbrook":http://twitter.com/robertbrook on twitter, this little chap might help bridge the gap. Not quite the same thing, but it looks like he's going to have to do. For now.
 ---
-
-<div markdown="1" class="intro">
-  {{ page.intro | texilize }}
-</div>
 
 ### Meet Robot
 

@@ -12,10 +12,6 @@ intro:
  After a prolonged period of intense irritation, the [first edition MacBook black](http://support.apple.com/kb/SP31) is now sporting a 64bit Core2 processor, a shiny new motherboard and a few other fiddly things. If you're squeamish about graphic shots of open cases, look away now...
 ---
 
-<div markdown="1" class="intro">
-  {{ intro }}
-</div>
-
 ### The problem
 
 More and more apps - and by the looks of things the [latest version of Mac OS](http://en.wikipedia.org/wiki/Mac_OS_X_Lion#System_requirements) - are moving to 64bit. I feel left out and my 1st Gen was-top-of-the-line-once MacBook is feeling pretty tired. But I like it, it's been my friend a long time and there's nothing really "wrong" with it aside from it starting to feel a bit sluggish and the latest versions of things like CouchDBX refuse to run. And besides I don't really have the cash to burn buying an entry-level MacBook Pro for home use right now.
