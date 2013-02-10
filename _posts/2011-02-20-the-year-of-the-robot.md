@@ -10,7 +10,7 @@ intro: As it seems I'm not the only one missing "@robertbrook":(http://twitter.c
 ---
 
 <div markdown="1" class="intro">
-  {{ intro }}
+  {{ page.intro | texilize }}
 </div>
 
 ### Meet Robot
