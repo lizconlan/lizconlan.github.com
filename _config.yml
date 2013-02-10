@@ -1,5 +1,7 @@
 pygments: true
 permalink: ./:title.html
+title: blog.lizconlan.com
+url: http://blog.lizconlan.com/
 exclude: 
 - Rakefile
 - CNAME
