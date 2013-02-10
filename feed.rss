@@ -4,7 +4,7 @@ layout: none
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>{{ site.name }}</title>
+		<title>blog.lizconlan.com</title>
 		<description>{{ site.description }}</description>
 		<link>{{ site.url }}</link>
 		<atom:link href="{{ site.url }}/feed.rss" rel="self" type="application/rss+xml" />
@@ -17,7 +17,7 @@ layout: none
 				  {% endif %}
 				</description>
 				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-				<link>{{ site.url }}{{ post.url }}</link>
+				<link>http://blog.lizconlan.com/{{ post.url }}</link>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
 			</item>
 		{% endfor %}
