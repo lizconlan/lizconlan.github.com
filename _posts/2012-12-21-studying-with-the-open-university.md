@@ -5,12 +5,9 @@ categories:
 - education
 - tech
 keywords: open university, technology, degree courses
+intro:
+  Lots of people (at least 2!) have asked how it works, what I've thought of it, how much it's cost (although this obviously is a moving target and presents a very different picture since the introduction of tuition fees) and how I've found it for IT so I thought I'd gather my thoughts here.
 ---
-
-<div markdown="1" class="intro">
-	Lots of people (at least 2!) have asked how it works, what I've thought of it, how much it's cost (although this obviously is a moving target and presents a very different picture since the introduction of tuition fees) and how I've found it for IT so I thought I'd gather my thoughts here.
-</div>
-
 
 ### Disclaimer
 Word of warning first - like many of my endeavours I've not done this in a thoroughly conventional manner (although it's perhaps worth nothing that, while offering support and advice to keep you away from the rocks, the OU is fully supportive of eccentric choices) so you might not want to follow my example too closely. Never one to do things in the 'correct order' - where's the fun in that?! - having started conventionally enough by taking an experimental level 1 course to see how I'd get on, I then moved straight to [my first level 3 course](http://web.archive.org/web/20060719020346/http://www3.open.ac.uk/courses/bin/p12.dll?C01M360) (last opportunity to do so before it was withdrawn, it's a bit like logic) before taking [the prerequisite level 2 programming course that underpinned it](http://web.archive.org/web/20060821083726/http://www3.open.ac.uk/courses/bin/p12.dll?C01M255) (it's ok - I'd been getting paid for writing software for years so I knew enough to blag it) and I'm finishing in much the same style having done my 'final' project based heavily on databases and data modelling and am now preparing to take what will, barring unforeseen circumstances, be my final course module to count towards my degree course - the level 3 database module. \*ahem\*

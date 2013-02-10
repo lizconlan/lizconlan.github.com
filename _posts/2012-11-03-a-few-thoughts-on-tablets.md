@@ -5,11 +5,9 @@ categories:
 - hardware
 - tech
 keywords: tablets, Kindle Fire HD, Nexus 7, iPad Mini, iOS, Android, Surface
+intro:
+  Was in a meeting recently where everyone else had tablets. I had a "Moleskine Volant":http://officesupplygeek.com/notebook-review/moleskine-volant-mini-notebook-review/ and a pen and felt seriously out-geeked.  Time for me to take another look at something smaller than a laptop but larger - and less fiddly - than a phone.
 ---
-
-<div markdown="1" class="intro">
-  Was in a meeting recently where everyone else had tablets. I had a [Moleskine Volant](http://officesupplygeek.com/notebook-review/moleskine-volant-mini-notebook-review/) and a pen and felt seriously out-geeked.  Time for me to take another look at something smaller than a laptop but larger - and less fiddly - than a phone.
-</div>
 
 ### But I thought you had an iPad?
 
