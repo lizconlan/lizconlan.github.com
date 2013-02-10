@@ -6,12 +6,14 @@ categories:
 - hardware
 - tech
 keywords: macbook, apple, hardware upgrade
+intro:
+ Muahahah, finally the patient is ready for testing! \*cough\* sorry, been working on this for so long now it's sent me slightly round the twist. Well, slightly \*further\* round the... You know what I mean!
+
+ After a prolonged period of intense irritation, the [first edition MacBook black](http://support.apple.com/kb/SP31) is now sporting a 64bit Core2 processor, a shiny new motherboard and a few other fiddly things. If you're squeamish about graphic shots of open cases, look away now...
 ---
 
 <div markdown="1" class="intro">
-  Muahahah, finally the patient is ready for testing! \*cough\* sorry, been working on this for so long now it's sent me slightly round the twist. Well, slightly \*further\* round the... You know what I mean!
-  
-  After a prolonged period of intense irritation, the [first edition MacBook black](http://support.apple.com/kb/SP31) is now sporting a 64bit Core2 processor, a shiny new motherboard and a few other fiddly things. If you're squeamish about graphic shots of open cases, look away now...
+  {{ intro }}
 </div>
 
 ### The problem
