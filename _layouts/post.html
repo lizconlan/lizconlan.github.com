@@ -44,6 +44,11 @@
     <article>
       <h2>{{ page.title }}</h2>
       <span class="post_date">{{ page.date | date: "%b %Y"}}</span>
+      {% if page.intro %}
+        <div markdown="1" class="intro">
+          {{ post.intro }}
+        </div>
+      {% endif %}
       {{ content }}
     </article>
     <footer>
