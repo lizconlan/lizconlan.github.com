@@ -70,7 +70,7 @@ A single espresso (for ease of comparison with the pod version).
 
 And a double.
 
-The pic got a bit over exposed by the camera (my excuse, sticking to it) - the crema wasn't really that pale, it's supposed to be pale coffee colour (or "a glorious red brown" if you're on competition form), not a milky off-white. What I was trying (and mostly failing) to capture was the way the crema goes through the freshly poured shot rather than sitting on the top, giving a settling Guinness style effect. This is a good sign that you're about to enjoy a tasty drink (although the use of a pressurised basket may give a false sense of security, or, if you're unlucky, a cup full of foam).
+The pic got a bit over exposed by the camera (my excuse, sticking to it) - the crema wasn't really that pale, it's supposed to be pale coffee colour (or [what I've heard described as "a glorious red brown"](http://instagram.com/p/XaeDQJL2Gs/) if you're on competition form), not a milky off-white. What I was trying (and mostly failing) to capture was the way the crema goes through the freshly poured shot rather than sitting on the top, giving a settling Guinness style effect. This is a good sign that you're about to enjoy a tasty drink (although the use of a pressurised basket may give a false sense of security, or, if you're unlucky, a cup full of foam).
 
 ![coffee cup](images/coffee/coffee_cup.jpg)
 
