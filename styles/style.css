@@ -1,6 +1,7 @@
 body {
-  width:650px
-  ;margin:0 auto;
+  max-width:650px;
+  padding: 0 20px;
+  margin:0 auto;
   font-family:Georgia,serif;
   line-height:1.48em;
   background:#DFDCCB;
