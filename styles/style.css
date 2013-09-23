@@ -90,6 +90,18 @@ article {
   padding:0 0.8em
 }
 
+pre code {
+  display: block;
+  background: #e8e8e8;
+  border: 1px solid #aaa;
+  padding: 6px 10px;
+  word-wrap: break-word;
+}
+
+code {
+  font-size: 1.05em;
+}
+
 span.post_date { 
   display:block;
   position:absolute;

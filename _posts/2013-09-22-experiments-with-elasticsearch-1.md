@@ -142,6 +142,7 @@ First of all the fail condition - let's look for 'new search':
         }
       }
     '
+    
 Argh - it brought back all the things! Looks like it did an `OR` (all the posts containing 'new' **or** 'search') and has widened the search rather than narrowing it; I guess I meant `AND` (all the posts containing 'new' **and** 'search'). Let's be more specific and try that again:
 
     curl -X POST 'http://localhost:9200/test/_search?pretty=true' -d '
