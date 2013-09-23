@@ -57,7 +57,7 @@ Let's go ahead and map out a document type called article:
       }
     }'
     
-Note that `contributors` has been excluded from the analyzer - despite being defined as a string, we're actually going to use it to store an array of strings to reflect that an article may have been written by more than one person.
+Note that `contributors` has been excluded from the analyzer - this is going to be our example facet field. Despite being defined as a string, we're actually going to use it to store an array of strings to reflect that an article may have been written by more than one person.
 
 ### Create a test document (or 3)
 
