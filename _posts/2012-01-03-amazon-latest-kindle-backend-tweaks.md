@@ -13,12 +13,6 @@ intro:
   _(Disclaimer&#58; Most of the app features discussed here currently appear to be iOS only, but presumably will be rolled out to Android in due course. I have no insider information on this, just a borrowed Android phone, internet access and what seems like a reasonable guess.)_
 ---
 
-<div markdown="1" class="intro">
-  
-
-  
-</div>
-
 ### Personal Documents and Kindle apps
 
 In addition to the other recent(ish) change of intercepting incoming emailed documents and storing them in a Personal Documents Archive (with associated storage limits) so that you can resend them straight from your Amazon account without needing to find the original file and wait for the email to arrive all over again, Amazon have now extended this document-sending ability to the Kindle app as well as the Kindle hardware devices. This is fantastic as it now means you can send a document to whichever device you happen to have to hand - if you already have your hands full of coffee and paperwork, you can send the latest meeting minutes to your iPhone rather than it printing out yet another stack of paper or trying to balance your actual Kindle on top of a slithering heap of stuff that you're trying not to spill coffee over while trying to remember which room you're supposed to be in. (Also stuff from indie publishers like [The Pragmatic Bookshelf](http://pragprog.com/) can be directed straight to your reading gadget of choice, or sent along a little later via the Personal Document Archive page.)
