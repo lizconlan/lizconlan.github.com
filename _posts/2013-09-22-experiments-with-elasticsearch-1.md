@@ -82,7 +82,7 @@ Now we can generate some test data. We need something to search for and these sh
 
 ### Simple search (with facets)  
 
-Look for a word that appears in all of the documents:
+Let's look for a word that appears in all of the documents:
     
     curl -X POST "http://localhost:9200/test/_search?pretty=true" -d '
       {
@@ -93,9 +93,11 @@ Look for a word that appears in all of the documents:
       }
     '
     
+Note that underneath the 'hits' data that contains the actual results, we also get back a 'facets' section that lists our named contributors and the number of documents they have worked on that match our search criteria. The `"missing" : 1` line refers to the document that does not have a contributor field.
+    
 ### Using a facet to refine the results
 
-Same query as before but filtered to only retrieve the document co-created by Robert:
+Using the same query as before but filtered to only retrieve the document co-created by Robert:
 
     curl -X POST "http://localhost:9200/test/_search?pretty=true" -d '
       {
@@ -123,6 +125,8 @@ Let's look for the word `index` in the title field:
       }
     '
     
+This should return a single document as it's no longer looking in the text field. By default it will look in all the stored fields for a matching search term.
+    
 ### Enabling simple query operators
 
 I can haz [dismax](http://searchhub.org/2010/05/23/whats-a-dismax/)!
@@ -138,7 +142,7 @@ First of all the fail condition - let's look for 'new search':
         }
       }
     '
-Argh - it brought back all the things! Looks like it did an `OR` so I guess I meant `AND`. Let's be more specific and try that again:
+Argh - it brought back all the things! Looks like it did an `OR` (all the posts containing 'new' **or** 'search') and has widened the search rather than narrowing it; I guess I meant `AND` (all the posts containing 'new' **and** 'search'). Let's be more specific and try that again:
 
     curl -X POST 'http://localhost:9200/test/_search?pretty=true' -d '
       {
@@ -150,7 +154,7 @@ Argh - it brought back all the things! Looks like it did an `OR` so I guess I me
       }
     '
     
-Wait, still not there - let's get dismax to help and turn this into a phrase search to fetch the single document I was after:
+Wait, still not there - it's returning the posts containing both words but not necessarily together. In this case, I could fix it by changing the query to only look in the text field but that's likely to stop working if a new document is added that contains both search terms in a different order; also it will exclude any relevant data that may be added to the title field. Let's get the dismax query parser to help and turn this into a phrase query by wrapping the search in quotes:
   
     curl -X POST 'http://localhost:9200/test/_search?pretty=true' -d '
       {
@@ -163,9 +167,11 @@ Wait, still not there - let's get dismax to help and turn this into a phrase sea
       }
     '
 
-### Building more complicated things
+Finally, the single document I was after, containing the words 'new' and 'search' next to each other.
 
-How about an old favourite - "`search` without `index` (in the text field)":
+### Towards "Advanced Search"
+
+While we're playing with dismax, how about an old favourite to finish on - finding documents where the text field contains the word 'search' without mentioning 'index':
 
     curl -X POST 'http://localhost:9200/test/_search?pretty=true' -d '
       {
