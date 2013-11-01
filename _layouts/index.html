@@ -19,13 +19,25 @@
   </head>
   <body>
     <header>
-      <h1 class="homepage"><a href="/">blog.lizconlan.com</a></h1>
+      <ul>
+        <li>
+          <h1><a href="http://lizconlan.com">lizconlan.com</a></h1>&nbsp;&nbsp;|
+        </li>
+        <li>
+          <a class="current" href="/">blog</a></h1>
+        </li>
+        <li>
+          <a href="http://code.lizconlan.com">code</a>
+        </li>
+      </ul>
     </header>
-    <article id="index">
-      {{ content }}
-    </article>
-    <footer>
-      &copy 2011 - {{ 'now' | date: "%Y" }} Liz Conlan 
-    </footer>
+    <div id="main">
+      <article id="index">
+        {{ content }}
+      </article>
+      <footer>
+        &copy 2011 - {{ 'now' | date: "%Y" }} Liz Conlan 
+      </footer>
+    </div>
   </body>
 </html>

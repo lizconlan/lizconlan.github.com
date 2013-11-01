@@ -1,45 +1,83 @@
 body {
-  max-width:650px;
-  padding: 0 12px;
-  margin:0 auto;
+  margin:0;
+  padding: 0;
   font-family:Georgia,serif;
   line-height:1.48em;
   background:#DFDCCB;
   color:#111;
-  font-size:110%
+  font-size:18.5px
 }
 
-footer, h1 {
-  text-align:center;
-  font-weight:normal;
-  font-family:Verdana,Arial,sans-serif;
+header {
+  font-size: 0.9em;
+  display: block;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: #C4BFA0;
+  color:#666;
+  margin: 0;
+  min-height: 2.5em;
+  border-bottom:1px solid #AAA;
+  padding-top:0.8em;
+}
+
+sup {
+  position: relative;
+}
+
+header ul {
+  max-width:650px;
+  list-style: none;
+  margin: 0 auto;
+}
+
+header ul h1 {
+  display: inline;
+  margin: 0.4em 2em 0 -1em;
+  font-weight: normal;
+  font-family: Georgia,serif;
+  font-size: 1.3em;
+  color: #AAA;
+}
+
+header ul li {
+  display: inline;
+  color: #666;
+  padding-right: 4em;
+}
+
+header a {
+  text-decoration:none;
   color:#666
 }
 
-h1 {
-  padding-bottom:0.6em;
-  margin-bottom:4em;
-  border-bottom:1px solid #AAA;
-  font-size:0.75em
+header a.current {
+  color: #0F0E09;
+}
+
+header a:hover {
+  text-decoration:underline;
+  color:crimson
+}
+
+#main {
+  margin: 1em auto;
+  text-rendering: optimizeLegibility;
+  max-width:650px;
 }
 
 footer {
+  text-align:center;
+  font-weight:normal;
+  font-family:Verdana,Arial,sans-serif;
+  color:#666;
   display:block;
   padding-top:0.8em;
   margin-top:4em;
   margin-bottom:1.4em;
   border-top:1px solid #AAA;
   font-size:0.75em
-}
-
-h1 a {
-    text-decoration:none;
-    color:#666
-}
-
-h1 a:hover {
-  text-decoration:underline;
-  color:crimson
 }
 
 #index h2 {
@@ -49,7 +87,7 @@ h1 a:hover {
 
 #post h2 {
   text-align:center;
-  margin-bottom:2em;
+  margin: 1.5em 0 2em 0;
 }
 
 #index h3 {
@@ -79,15 +117,24 @@ div.intro>p:first-of-type:first-letter {
   font-size:270%;
   font-weight:bold;
   float:left;
-  margin-top:0.26em;
+  line-height: 1;
+  margin-top: -1px;
   margin-right:0.1em;
   color:#666
 }
 
 article {
+  position: relative;
   display:block;
-  position:relative;
-  padding:0 0.8em
+  padding: 0.5em 0.8em
+}
+
+article#post {
+  padding-top: 0.5em;
+}
+
+p.centered {
+  text-align: center
 }
 
 pre code {
@@ -106,7 +153,7 @@ span.post_date {
   display:block;
   position:absolute;
   text-align:center;
-  top:-3.4em;
+  top:-0.8em;
   right:0.5em;
   font-size:0.85em;
   color:#666
