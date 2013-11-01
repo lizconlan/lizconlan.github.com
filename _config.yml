@@ -1,5 +1,6 @@
 pygments: true
 permalink: ./:title.html
+timezone: Europe/London
 exclude: 
 - Rakefile
 - CNAME

@@ -7,10 +7,8 @@ categories:
 - burnout
 keywords: burnout, recovery, coffee, espresso
 intro:
-  Always have more than one hobby.
+  Always have more than one hobby.<br/><br/>
 ---
-
-<br />
 
 ### Burnout
 
