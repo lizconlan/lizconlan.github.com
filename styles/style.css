@@ -26,25 +26,38 @@ sup {
   position: relative;
 }
 
-header ul {
-  max-width:650px;
-  list-style: none;
+div#header {
+  max-width: 650px;
   margin: 0 auto;
+  position: relative;
 }
 
-header ul h1 {
+header h1 {
   display: inline;
-  margin: 0.4em 2em 0 -1em;
   font-weight: normal;
   font-family: Georgia,serif;
   font-size: 1.3em;
   color: #AAA;
 }
 
+nav {
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+header ul {
+  list-style: none;
+  text-align: right;
+  margin: 0;
+}
+
 header ul li {
   display: inline;
+  margin-top: 0.5em;
   color: #666;
-  padding-right: 4em;
+  padding-right: 3em;
 }
 
 header a {
