@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Coffee Behavioural Therapy
-categories: 
+categories:
 - coffee
 - tech
 - burnout
@@ -23,6 +23,7 @@ I should say at this point that my boss noticed - possibly before I did - where 
 A coder who can't code anymore; a problem solver whose brain keeps dropping the puzzle it's supposed to be turning over to see what it looks like from different angles, like a misfiring flint lighter that refuses to catch. Hmmm.
 
 Turns out that learning how to pull a decent espresso shot is a lot like writing good code:
+
 * there's a lot of work that goes on behind the scenes
 * you have to be prepared to throw your early efforts away - repeatedly - until you end up with something you're happy with
 * knowing when to stop for a bit is healthy (cup of tea anyone?)
