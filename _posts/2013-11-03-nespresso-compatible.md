@@ -16,8 +16,9 @@ Unlike the other pod-based gadgets I've tried, their coffee is pretty convincing
 
 Nespresso produce their own capsules - filled not, despite popular rumour, with Nescafe but with actual ground beans. The options are pretty good (although I'm a bit underwhelmed by the decaf) and not too expensive. There are currently 14 different espresso options and 4 "lungo" offerings (these don't sit quite right with me - too watery for my liking) plus 3 "flavoured" variants; there are 3 decafs in total - 2 espresso, 1 lungo.
 
-{.centered}
+<p class="centered" markdown="1">
   ![shiny metal capsules](images/nespresso/capsules.jpg)
+</p>
 
 Being able to try instore before you buy is a definite plus and the descriptions are fairly accurate. A further plus point is a recycling scheme where spent all-aluminium capsules can be returned to Nespresso for processing either on a drop-off instore or pickup with next order basis (recycling bag supplied on request).
 
@@ -33,8 +34,9 @@ I've not had much success with the refillable type that you put your own ground 
 
 A far better alternative comes from Cambridge-based [Big Cup Little Cup](http://bigcuplittlecup.com) who have developed a range of pre-filled capsules with an emphasis on sourcing and blend quality. Currently available: 5 lungo ("big cup") blends - including a decaf variety (which I've been unable to try as it wasn't in stock when I placed my order) - and 4 espresso ("little cup") options. And unlike the Nespresso originals, they've really nailed the lungo capsules which are at their best as a standard 110ml pour.
 
-{.centered}
+<p class="centered" markdown="1">
   ![individually wrapped](images/nespresso/compatible-capsule.jpg)
+</p>
 
 As, seemingly with all non-Nespresso options, the capsules are not sealed, each pod is individually wrapped which does have the advantage of giving off a wonderful coffee aroma when the foil pouch is opened, but means that the capsules won't fit into an existing Nespresso holder (except for the bowl types) and doesn't feel like the most environmentally friendly option. The capsules themselves are recyclable though and can go in with the standard plastics collection rather than needing a special arrangement, but, unlike the original capsules, you'll need to empty the spent grounds out first.
 
@@ -44,8 +46,9 @@ I'm struggling to pin down a favourite among the espressos, which is a good sign
 
 As this visual comparison of espresso shots shows, there's surprisingly little between the original Nespresso capsules (left) and the Big Cup Little Cup alternatives (the depth of the crema can probably be attributed to the difference in freshness-retaining techniques).
 
-{.centered}
+<p class="centered" markdown="1">
   ![side by side](images/nespresso/shot-comparison.jpg)
+</p>
 
 Personally I appreciate the extra options that Big Cup Little Cup brings and feel that they have a more consistently authentic espresso taste, to the point where I'm reasonably confident that if you served one to a guest there'd be no questions asked. As for the lungos, there's no comparison - Big Cup Little Cup wins hands down on texture and flavour.
 
