@@ -172,6 +172,14 @@ span.post_date {
   color:#666
 }
 
+span.reading_time {
+  display: block;
+  text-align: center;
+  font-size:0.9em;
+  margin-top: -2.5em;
+  margin-bottom: 2.5em;
+}
+
 sup a {
   color:crimson;
   text-decoration:none;
