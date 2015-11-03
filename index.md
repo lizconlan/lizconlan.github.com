@@ -15,8 +15,6 @@ Anyway, for what it's worth, here's some stuff what I wrote...
 {% for post in site.posts limit:50 %}* [{{ post.title }}]({{ post.url}}) - {{ post.date | date: "%b %Y" }}
 {% endfor %}
 
-## wot no open source?
+## New and improved - now 99% open source!
 
-Sorry. The tech for this one is the same as before - Jekyll on Github; nice and simple, automagic versioning, editable anywhere (and over the web if I really have to). Might write something over the top of it for editing purposes that makes the web bit a little more streamlined but that's for another day. If I get it working, I'll write about it here.
-
-I've not avoided open source because I don't want you to copy but because I want to keep my drafts in private but still under version control and couldn't think of another way of doing it. Structurally it's very similar to [the Sandbox](http://github.com/lizconlan/sandbox) (see, another reason for keeping them separate!) but using MarkDown instead of Textile for reasons which escape me. Something something Github issues lists. I think. Or maybe I made that up.
+Took me a while but I eventually realised that I could hide the `_drafts` folder in its own private submodule! \*opens main repo\* (Excuse the mess - I may retrospectively merge a few commits.)
