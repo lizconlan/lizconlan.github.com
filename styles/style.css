@@ -158,11 +158,14 @@ pre code {
   word-wrap: break-word;
 }
 
-code {
-  font-size: 1.05em;
+p code {
+  display: inline-block;
+  font-size: 0.85em;
+  padding: 0.01em 0.2em;
+  background-color: lightgray
 }
 
-span.post_date { 
+span.post_date {
   display:block;
   position:absolute;
   text-align:center;
