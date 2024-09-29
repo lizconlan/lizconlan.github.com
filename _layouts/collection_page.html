@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+    <title>blog.lizconlan.com</title>
+    <link rel="stylesheet" type="text/css" href="/styles/style.css" media="screen, projector"  />
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-17686673-4']);
+      _gaq.push(['_setDomainName', '.lizconlan.com']);
+      _gaq.push(['_trackPageview']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+    <link href="http://lizconlan.github.com/feed.rss" rel="alternate" type="application/rss+xml" title="blog.lizconlan.com" />
+  </head>
+  <body>
+    <header>
+      <div id="header">
+        <h1><a href="http://lizconlan.com">lizconlan.com</a></h1>
+        <nav>
+          <ul>
+            <li>
+              <a class="current" href="/">blog</a></h1>
+            </li>
+            <li>
+              <a href="http://blog.lizconlan.com/sandbox/">sandbox</a>
+            </li>
+            <li>
+              <a href="https://github.com/lizconlan">code</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <div id="main">
+      <article id="post">
+        <h2>{{ page.title }}</h2>
+        <span class="post_date">{{ page.date | date: "%b %Y"}}</span>
+
+        {% assign reading_minutes =  page.content | number_of_words | divided_by:180 %}
+        {% assign reading_float = page.content | number_of_words | append:'.0' | divided_by:180 %}
+        {% assign reading_remainder = reading_float | minus:reading_minutes %}
+        {% if reading_remainder > 0.45 %}
+          {% assign reading_time = reading_minutes | plus:1 %}
+        {% else %}
+          {% assign reading_time = reading_minutes %}
+        {% endif %}
+
+        <span class="reading_time">{{ reading_time }} minute read</span>
+
+        {% if page.intro %}
+          <div markdown="1" class="intro">
+            {{ page.intro | markdownify }}
+          </div>
+        {% endif %}
+
+        {{ content }}
+      </article>
+      <footer>
+        &copy {{ page.date | date: "%Y" }} Liz Conlan
+      </footer>
+    </div>
+  </body>
+</html>

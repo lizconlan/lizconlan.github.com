@@ -2,6 +2,11 @@ highlighter: rouge
 markdown: kramdown
 permalink: ./:title.html
 
-exclude: 
+collections:
+  containers:
+    output: true
+    permalink: /containers/:path/
+
+exclude:
 - Rakefile
 - CNAME

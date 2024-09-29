@@ -15,6 +15,11 @@ Anyway, for what it's worth, here's some stuff what I wrote...
 {% for post in site.posts limit:50 %}* [{{ post.title }}]({{ post.url}}) - {{ post.date | date: "%b %Y" }}
 {% endfor %}
 
+## Learning resources
+
+{% for article in site.containers %}* [{{ article.title }}]({{ article.url}}) - {{ article.date | date: "%b %Y" }}
+{% endfor %}
+
 ## New and improved - now 99% open source!
 
 Took me a while but I eventually realised that I could hide the `_drafts` folder in its own private submodule! \*opens main repo\* (Excuse the mess - I may retrospectively merge a few commits.)
