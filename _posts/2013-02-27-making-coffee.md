@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Making coffee
-categories: 
+categories:
 - coffee
 keywords: coffee, espresso
 intro:
@@ -20,7 +20,7 @@ With even the cheapest of espresso makers, the bit the human gets to tinker star
   ![Portafilter](images/coffee/portafilter.jpg)
 </p>
 
-Into this fits a selection - unless you've chosen somewhat unwisely - of "baskets" to put the ground coffee in. This is my pressurised (at a corner-of-your-kitchen level, pressurised vs non is a matter of taste and, above all, availability - merit and religious zeal readily available on both sides of the argument) double espresso basket. 
+Into this fits a selection - unless you've chosen somewhat unwisely - of "baskets" to put the ground coffee in. This is my pressurised (at a corner-of-your-kitchen level, pressurised vs non is a matter of taste and, above all, availability - merit and religious zeal readily available on both sides of the argument) double espresso basket.
 
 <p class="centered" markdown="1">
   ![Coffee basket](images/coffee/espresso_basket.jpg)
@@ -64,13 +64,13 @@ Start off by grinding up some coffee and prepare to "dose" the right amount. Awa
   ![weighing out the coffee](images/coffee/measuring.jpg)
 </p>
 
-Clip the basket (mine's a double) into the portafilter, run some hot water through it ("draw a blank shot") from the machine to a) prime the pump b) heat everything up (cold gear, cold coffee - nobody wants that) and c) get a quick heads up as to how well you cleaned the machine last time you used it. Dry the basket carefully afterwards, preferably without burning your fingers. 
+Clip the basket (mine's a double) into the portafilter, run some hot water through it ("draw a blank shot") from the machine to a) prime the pump b) heat everything up (cold gear, cold coffee - nobody wants that) and c) get a quick heads up as to how well you cleaned the machine last time you used it. Dry the basket carefully afterwards, preferably without burning your fingers.
 
 <p class="centered" markdown="1">
   ![double basket in place](images/coffee/portafilter_assemble.jpg)
 </p>
 
-Now add the coffee to filter basket. Remember that the ultimate aim is to end up with an even puck that encourages the hot water to be forced through in a uniform manner - don't neglect the edges. There are so many theories about this part (and a certain amount of variance to cope with the quirks of a particular machine) that I'm just going to [refer you to Google](https://www.google.co.uk/search?q=coffee+distribution+espresso) at this point. 
+Now add the coffee to filter basket. Remember that the ultimate aim is to end up with an even puck that encourages the hot water to be forced through in a uniform manner - don't neglect the edges. There are so many theories about this part (and a certain amount of variance to cope with the quirks of a particular machine) that I'm just going to [refer you to Google](https://www.google.co.uk/search?q=coffee+distribution+espresso) at this point.
 
 <p class="centered" markdown="1">
   ![tamped puck](images/coffee/prepped_portafilter.jpg)

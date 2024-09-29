@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The year of the robot
-categories: 
+categories:
 - coding
 - twitter
 - tech

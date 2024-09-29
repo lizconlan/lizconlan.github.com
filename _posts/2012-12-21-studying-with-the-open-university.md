@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Studying with the Open University
-categories: 
+categories:
 - education
 - tech
 keywords: open university, technology, degree courses
@@ -66,4 +66,3 @@ Besides, having missed out on my chance of going to university as a teenager due
   <li id="cite-1">my split's 40-170-150, I'm complicated/awkward/a glutton for punishment/insane [delete as applicable] <a href="#cite_ref-1" class="return">&larrhk;</a></li>
 	<li id="cite-2">"dreaming spires" are all very well but make for rubbish reading material<a href="#cite_ref-2" class="return">&larrhk;</a></li>
 </ol>
-

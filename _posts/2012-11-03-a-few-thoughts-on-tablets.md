@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Few Thoughts on Tablets
-categories: 
+categories:
 - hardware
 - tech
 keywords: tablets, Kindle Fire HD, Nexus 7, iPad Mini, iOS, Android, Surface

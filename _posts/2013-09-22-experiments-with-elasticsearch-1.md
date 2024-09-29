@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Experiments with Elasticsearch - part 1
-categories: 
+categories:
 - search
 - code
 - tech
 keywords: search, elasticsearch
 intro:
- Part 1 of what's intended to be a longer series of posts exploring, by way of example, the features of Elasticsearch. All code below assumes that Elasticsearch is running locally using the default settings. 
+ Part 1 of what's intended to be a longer series of posts exploring, by way of example, the features of Elasticsearch. All code below assumes that Elasticsearch is running locally using the default settings.
 ---
 
 ### What's an Elasticsearch and why might I want one?
@@ -37,7 +37,7 @@ Jump into terminal and run the following command to delete a search index called
 Great, we threw our old work away, now we need to make a new index of the same name, using this command:
 
     curl -XPUT 'http://localhost:9200/test/'
-    
+
 ### Generate the mapping configuration
 
 _Wait, what? I want to play with indexing documents first!_
@@ -56,7 +56,7 @@ Let's go ahead and map out a document type called article:
         }
       }
     }'
-    
+
 Note that `contributors` has been excluded from the analyzer - this is going to be our example facet field. Despite being defined as a string, we're actually going to use it to store an array of strings to reflect that an article may have been written by more than one person.
 
 ### Create a test document (or 3)
@@ -68,22 +68,22 @@ Now we can generate some test data. We need something to search for and these sh
         "text" : "trying out my new search index",
         "contributors" : ["Liz Conlan"]
     }'
-    
+
     curl -XPUT 'http://localhost:9200/test/article/2' -d '{
         "title" : "test too",
         "text" : "more grist for the search index mill",
         "contributors" : ["Liz Conlan", "Robert Brook"]
     }'
-    
+
     curl -XPUT 'http://localhost:9200/test/article/3' -d '{
         "title" : "index baiting",
         "text" : "new doc to search on, must not mention the i-word in here"
     }'
 
-### Simple search (with facets)  
+### Simple search (with facets)
 
 Let's look for a word that appears in all of the documents:
-    
+
     curl -X POST "http://localhost:9200/test/_search?pretty=true" -d '
       {
         "query" : { "query_string" : {"query" : "index"} },
@@ -92,9 +92,9 @@ Let's look for a word that appears in all of the documents:
         }
       }
     '
-    
+
 Note that underneath the 'hits' data that contains the actual results, we also get back a 'facets' section that lists our named contributors and the number of documents they have worked on that match our search criteria. The `"missing" : 1` line refers to the document that does not have a contributor field.
-    
+
 ### Using a facet to refine the results
 
 Using the same query as before but filtered to only retrieve the document co-created by Robert:
@@ -124,9 +124,9 @@ Let's look for the word `index` in the title field:
         }
       }
     '
-    
+
 This should return a single document as it's no longer looking in the text field. By default it will look in all the stored fields for a matching search term.
-    
+
 ### Enabling simple query operators
 
 I can haz [dismax](http://searchhub.org/2010/05/23/whats-a-dismax/)!
@@ -142,7 +142,7 @@ First of all the fail condition - let's look for 'new search':
         }
       }
     '
-    
+
 Argh - it brought back all the things! Looks like it did an `OR` (all the posts containing 'new' **or** 'search') and has widened the search rather than narrowing it; I guess I meant `AND` (all the posts containing 'new' **and** 'search'). Let's be more specific and try that again:
 
     curl -X POST 'http://localhost:9200/test/_search?pretty=true' -d '
@@ -154,9 +154,9 @@ Argh - it brought back all the things! Looks like it did an `OR` (all the posts 
         }
       }
     '
-    
+
 Wait, still not there - it's returning the posts containing both words but not necessarily together. In this case, I could fix it by changing the query to only look in the text field but that's likely to stop working if a new document is added that contains both search terms in a different order; also it will exclude any relevant data that may be added to the title field. Let's get the dismax query parser to help and turn this into a phrase query by wrapping the search in quotes:
-  
+
     curl -X POST 'http://localhost:9200/test/_search?pretty=true' -d '
       {
         "query" : {

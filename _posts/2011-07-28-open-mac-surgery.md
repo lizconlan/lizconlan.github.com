@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Open Mac surgery
-categories: 
+categories:
 - macbook
 - hardware
 - tech
 keywords: macbook, apple, hardware upgrade
 intro:
  Muahahah, finally the patient is ready for testing!  \*cough\* sorry, been working on this for so long now it's sent me slightly round the twist. Well, slightly \*further\* round the... You know what I mean!
- 
- 
+
+
  After a prolonged period of intense irritation, the [first edition MacBook black](http://support.apple.com/kb/SP31) is now sporting a 64bit Core2 processor, a shiny new motherboard and a few other fiddly things. If you're squeamish about graphic shots of open cases, look away now...
 ---
 
@@ -28,9 +28,9 @@ I have taken the rash decision to "upgrade" my 2Ghz MacBook with parts sourced f
  * a 10p coin (or a quarter, similar size)
  * thermal compound
  * stuff to clean off the old thermal compound
- * a fair amount of patience 
+ * a fair amount of patience
  * ...and some sticking plasters in expectation of the traditional blood sacrifice being required (there are no photos of the blood sacrifice, it's not that sort of blog post)
- 
+
 ### The catch
 
 Why such a small chip upgrade (2Ghz to 2.16Ghz)? Well given the limitations of the case layout, there are limited options in terms of what can be crowbarred into the laptop equivalent of the engine bay, otherwise I would have put in something even faster and with a better understanding of modern RAM limitations. And it turns out there were 4 different models of fan for the plastic MacBook range, none of them cross-compatible with any of the others, and the replacement motherboard required a different one to the original. Oh and the original MacBook motherboard didn't use an EnergyStar compliant power connector so I needed a new one of those as well. Each of these discoveries saw me returning to eBay to buy more bits, meaning more money spent and more time wasted. And let's not talk about the threaded screw / Dremel incident. Really. Just don't. Please.

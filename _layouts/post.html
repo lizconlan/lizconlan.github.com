@@ -31,7 +31,7 @@
               <a href="http://blog.lizconlan.com/sandbox/">sandbox</a>
             </li>
             <li>
-              <a href="http://code.lizconlan.com">code</a>
+              <a href="https://github.com/lizconlan">code</a>
             </li>
           </ul>
         </nav>
@@ -41,7 +41,7 @@
       <article id="post">
         <h2>{{ page.title }}</h2>
         <span class="post_date">{{ page.date | date: "%b %Y"}}</span>
-        
+
         {% assign reading_minutes =  page.content | number_of_words | divided_by:180 %}
         {% assign reading_float = page.content | number_of_words | append:'.0' | divided_by:180 %}
         {% assign reading_remainder = reading_float | minus:reading_minutes %}
@@ -50,19 +50,19 @@
         {% else %}
           {% assign reading_time = reading_minutes %}
         {% endif %}
-        
+
         <span class="reading_time">{{ reading_time }} minute read</span>
-        
+
         {% if page.intro %}
           <div markdown="1" class="intro">
             {{ page.intro | markdownify }}
           </div>
         {% endif %}
-        
+
         {{ content }}
       </article>
       <footer>
-        &copy {{ page.date | date: "%Y" }} Liz Conlan 
+        &copy {{ page.date | date: "%Y" }} Liz Conlan
       </footer>
     </div>
   </body>

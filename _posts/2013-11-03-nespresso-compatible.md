@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nespresso Compatible
-categories: 
+categories:
 - coffee
 keywords: coffee, Nespresso, Big Cup Little Cup
 intro:
@@ -53,4 +53,3 @@ As this visual comparison of espresso shots shows, there's surprisingly little b
 Personally I appreciate the extra options that Big Cup Little Cup brings and feel that they have a more consistently authentic espresso taste, to the point where I'm reasonably confident that if you served one to a guest there'd be no questions asked. As for the lungos, there's no comparison - Big Cup Little Cup wins hands down on texture and flavour.
 
 If you fancy giving Big Cup Little Cup a try for yourself, you can get [15% off your first order with this link](http://bigcuplittlecup.refr.cc/VMRD7MH) (full disclosure, I should get a little something off my next attempt to sample the decaf as well!)
-
